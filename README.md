@@ -1,1 +1,1 @@
-# Learning Functional Programming :)
+# Learning Functional Programming
